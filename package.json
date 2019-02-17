@@ -1,0 +1,14 @@
+{
+  "name": "juise",
+  "version": "1.0.0",
+  "description": "landing page for juisTour",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "iloba israel",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
